@@ -1,2 +1,2 @@
 # phpmailer_smtp
-this repo works for php mailer
+this repo works for sending emails from php mailer
